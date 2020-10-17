@@ -1,3 +1,3 @@
-# wels-eltasa
-thes tool only for testing
-K
+# lwels-eltasa
+import os
+os.system ("clear")
