@@ -1,3 +1,4 @@
 # wels-eltasa
-thes tool only for testing
-K
+import os
+os.system ("clear")
+print ("lwes eltasa elkber")
